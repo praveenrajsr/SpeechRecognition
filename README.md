@@ -1,7 +1,7 @@
 # SpeechRecognition
 This is the simple Speech recogintion system development from scratch using python.
 
-**Dependencies**
+## Dependencies
 
 -SpeechRecognition==3.8.1
 -pipwin==0.5.0
