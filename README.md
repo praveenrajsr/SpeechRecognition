@@ -9,4 +9,4 @@ This is the simple Speech recogintion system development from scratch using pyth
 - playsound==1.2.2
 - gTTS==2.2.1
 
-Just Install all the dependencies and you will good to go!
+Just Install all the dependencies and you are good to go!
